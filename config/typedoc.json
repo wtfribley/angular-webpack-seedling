@@ -1,0 +1,8 @@
+{
+  "name": "Angular 2 with Webpack",
+  "readme": "../README.md",
+  "out": "docs",
+  "ignoreCompilerErrors": true,
+  "tsconfig": "../tsonfig.json",
+  "exclude": "**/*+(e2e|spec).ts"
+}
